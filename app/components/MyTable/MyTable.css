@@ -1,0 +1,54 @@
+.ag-theme-alpine {
+	--ag-background-color: #FFFFFF;
+	--ag-header-foreground-color: #000000;
+	--ag-header-background-color: #EDF1FE;
+	--ag-row-hover-color: #EDF1FE;
+	--ag-odd-row-background-color: #FFFFFF;
+	--ag-selected-row-background-color: #EDF1FE;
+	--ag-value-change-value-highlight-background-color: #EDF1FE;
+}
+
+
+.ag-row .ag-cell {
+	display: flex;
+	align-items: center;
+	user-select: text !important;
+}
+
+
+.ag-theme-alpine-dark {
+	--ag-background-color: #18181b;
+	--ag-header-background-color: #282828;
+	--ag-row-hover-color: #282828;
+	--ag-selected-row-background-color: rgba(106, 144, 255, 0.4);
+	--ag-foreground-color: #fff;
+	--ag-border-color: #68686e;
+	--ag-secondary-border-color: rgba(88, 86, 82, 0.5);
+	--ag-odd-row-background-color: #18181b;
+
+	--ag-disabled-foreground-color: rgba(255, 255, 255, 0.5);
+
+	--ag-value-change-value-highlight-background-color: #1c1c1c;
+
+	color-scheme: dark;
+
+
+}
+
+
+.ag-root-wrapper,
+.ag-row,
+.ag-paging-panel,
+.ag-full-width-container,
+.ag-header {
+	border: none;
+}
+
+.ag-paging-panel {
+	display: flex;
+	justify-content: center;
+}
+
+.ag-row-selected {
+	font-weight: 600;
+}

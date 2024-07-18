@@ -2,9 +2,21 @@
 CryptoMarketVision (CMV) is an non-commercial, personal project. This is made with an intention to show ability of developer to work with various web technologies. We aim to give crypto data in a professional way. CryptoMarketVision (CMV) is an not company, organization, it just doesn't exists, its imaginary name used for this project.
 
 ## Demo
+Website Link : [CMV](https://cmv.onrender.com)
 
 ## Screenshots
-
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Homepg_1-1.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Homepg_1-2.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Homepg_1-3.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Homepg_1-4.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Homepg_1-5.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Coins.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Categories.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Derivatives.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Exchanges.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/NFTS.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Search.png)
+![](https://github.com/ssbaraskar99/CMV/blob/main/public/screenshots/wide/Watchlist.png)
 
 ## Disclaimer
 We don't provide warranty or guarantee for anything present on this site. CryptoMarketVision (CMV) shall not be hold responsible for anything. CryptoMarketVision (CMV)'s use or reliance on any information is completely at your own risk. We do not collect, store, gather user's personal data here.
